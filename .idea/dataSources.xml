@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="se" uuid="d9796d89-4b26-4968-8955-79d906c94766">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Objects\shuju\se.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="se - 副本" uuid="3b6bdff9-af2d-4b62-aa0f-370abd574442">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Objects\shuju\se - 副本.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="se [2]" uuid="b6778a5b-783b-4d96-9f38-9a5e5f277922">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Projects\qq-phonenumber-search-tool\se.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
